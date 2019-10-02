@@ -1,0 +1,901 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Sep 2019 23:25:57 at http://bungo-stray-dogs.jp/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://bungo-stray-dogs.jp/ -O1 "C:\Users\ONGARD KUMKAEW\Desktop\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:44:48	Warning: 	Retry after error -4 (Incorrect length (1634670 Bytes, 3730055 expected)) at link bungo-stray-dogs.jp/images/bg/9.jpg (from bungo-stray-dogs.jp/dist/css/main0718.css)
+00:09:17	Warning: 	Retry after error -4 (No data (connection closed)) at link bungo-stray-dogs.jp/goods/?mode=bd-dvd&bd=bdshop (from bungo-stray-dogs.jp/goods/)
+00:30:39	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ed/ed-img-spacer.jpg (from bungo-stray-dogs.jp/goods/?mode=music)
+00:34:42	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/dist/images/arrow_next.png (from bungo-stray-dogs.jp/dist/css/main_movie.css)
+00:34:42	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/dist/images/arrow_prev.png (from bungo-stray-dogs.jp/dist/css/main_movie.css)
+00:56:21	Warning: 	Retry after error -4 (No data (connection closed)) at link bungo-stray-dogs.jp/movie/news/?news=news-artgoods (from bungo-stray-dogs.jp/movie/news/)
+01:01:46	Warning: 	Retry after error -4 (No data (connection closed)) at link bungo-stray-dogs.jp/movie/news/?news=collabo-yumeirocast (from bungo-stray-dogs.jp/movie/news/)
+01:26:30	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/movie/news/news-contents/collabo-morinaga-choco/images/thumb.jpg (from bungo-stray-dogs.jp/movie/news/)
+01:29:12	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/moviehttp://www.namco.co.jp/tp/namja/NEWS/events/20180213.html (from bungo-stray-dogs.jp/movie/tieup/)
+01:34:31	Warning: 	Unexpected socket error during pre-loop
+01:35:08	Warning: 	Unexpected socket error during pre-loop
+01:42:24	Warning: 	Unexpected socket error during pre-loop
+01:48:34	Warning: 	Unexpected socket error during pre-loop
+01:49:11	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-owabi
+01:49:11	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-owabi to /news/
+01:49:11	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-megane2
+01:49:11	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-megane2 to /news/
+01:49:11	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2018-after2
+01:49:11	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2018-after2 to /news/
+01:49:11	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-morinaga-bsdcan
+01:49:11	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-morinaga-bsdcan to /news/
+01:52:56	Warning: 	Unexpected socket error during pre-loop
+02:00:01	Warning: 	Unexpected socket error during pre-loop
+02:00:42	Warning: 	Unexpected socket error during pre-loop
+02:26:31	Warning: 	Retry after error -4 (No data (connection closed)) at link bungo-stray-dogs.jp/tv/news/?news=goods-music-ch-ma2 (from bungo-stray-dogs.jp/tv/news/)
+02:46:58	Warning: 	Unexpected socket error during pre-loop
+07:03:40	Warning: 	Unexpected socket error during pre-loop
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-morinaga8
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-morinaga8 to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2018-after
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2018-after to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-animatekokura-onlyshop
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-animatekokura-onlyshop to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-shinjuku
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-shinjuku to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bd-info
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bd-info to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2018-otakumode
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2018-otakumode to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-panel-animatetennouji
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-panel-animatetennouji to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2018-chugai
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2018-chugai to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-mansai
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-mansai to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-talkshow
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-talkshow to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2018-2
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2018-2 to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-marimocraft
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-marimocraft to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-aeoncinema
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-aeoncinema to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-animatenagoya-onlyshop
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-animatenagoya-onlyshop to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kouchi-bungakukan
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kouchi-bungakukan to /news/
+07:10:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-animate-onlyshop
+07:10:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-animate-onlyshop to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-sorakara
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-sorakara to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-aveil
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-aveil to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-oita
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-oita to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-malera-gifu
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-malera-gifu to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-niconico2
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-niconico2 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2018
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2018 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animatecampaign
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animatecampaign to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-amuplaza-oita
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-amuplaza-oita to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-maruicity-shibuya
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-maruicity-shibuya to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-3rdseason
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-3rdseason to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kooriyama
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kooriyama to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bd4
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bd4 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bd3
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bd3 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bd2
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bd2 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bd1
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bd1 to /news/
+07:10:41	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/cover_bd.jpg (from bungo-stray-dogs.jp/movie/news/?news=news-bd1)
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kandamyoujin
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kandamyoujin to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-gaisen
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-gaisen to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-bungakukan2
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-bungakukan2 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-newtypeshop
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-newtypeshop to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-morinaga7
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-morinaga7 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-book-cover5
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-book-cover5 to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-tanizaki
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-tanizaki to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-japanexpo
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-japanexpo to /news/
+07:10:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairtaiwan
+07:10:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairtaiwan to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-naporicomicon
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-naporicomicon to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-namjatown2
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-namjatown2 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tokuten4
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tokuten4 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-goods-0412
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-goods-0412 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tokuten3
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tokuten3 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairinfo7
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairinfo7 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairinfo6
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairinfo6 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-usamimi
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-usamimi to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bungonight
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bungonight to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-buzzhome
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-buzzhome to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-theatres3
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-theatres3 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-yokohamastamp3
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-yokohamastamp3 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-yokohamastamp
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-yokohamastamp to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tokuten2
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tokuten2 to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-yokohamaglass
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-yokohamaglass to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-novel
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-novel to /news/
+07:10:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-wowowplast
+07:10:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-wowowplast to /news/
+07:10:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-morinaga6
+07:10:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-morinaga6 to /news/
+07:10:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-thatrecampaign
+07:10:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-thatrecampaign to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-greeting
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-greeting to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-goods
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-goods to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-goods-animate
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-goods-animate to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-namco
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-namco to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-towerrecord
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-towerrecord to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-hazap
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-hazap to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-morinaga5
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-morinaga5 to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-anikuji
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-anikuji to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-officialgoods
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-officialgoods to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-musicfair
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-musicfair to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-maruicity-yokohama
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-maruicity-yokohama to /news/
+07:10:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-yosanoakiko3-2
+07:10:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-yosanoakiko3-2 to /news/
+07:11:04	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-aisatsu2
+07:11:04	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-aisatsu2 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tokuten
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tokuten to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-18puzzle
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-18puzzle to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-sunshinesakae
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-sunshinesakae to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-princehotel
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-princehotel to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-books
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-books to /news/
+07:11:05	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/books/books-drakonia.png (from bungo-stray-dogs.jp/movie/news/?news=goods-books)
+07:11:05	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/books/books-deadapple1.png (from bungo-stray-dogs.jp/movie/news/?news=goods-books)
+07:11:05	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/books/books-deadapple.png (from bungo-stray-dogs.jp/movie/news/?news=goods-books)
+07:11:05	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/books/books-rin.png (from bungo-stray-dogs.jp/movie/news/?news=goods-books)
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-yokoku
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-yokoku to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-tohogakuen
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-tohogakuen to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-namjatown
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-namjatown to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-aisatsu
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-aisatsu to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-preview
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-preview to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-yokohamastamp2
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-yokohamastamp2 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music5
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music5 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tcard
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tcard to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairinfo5
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairinfo5 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-dstorepremiere
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-dstorepremiere to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-premiere
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-premiere to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairinfo4
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairinfo4 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairinfo2
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairinfo2 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music4
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music4 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-toubudoubutsupark
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-toubudoubutsupark to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-matayoshi
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-matayoshi to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-famiport
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-famiport to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music3
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music3 to /news/
+07:11:05	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-songcampaign
+07:11:05	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-songcampaign to /news/
+07:11:06	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-job
+07:11:06	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-job to /news/
+07:11:06	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-theatres2
+07:11:06	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-theatres2 to /news/
+07:11:06	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-megane
+07:11:06	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-megane to /news/
+07:11:06	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-joysound
+07:11:06	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-joysound to /news/
+07:11:06	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-joysoundinfo
+07:11:06	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-joysoundinfo to /news/
+07:11:06	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-marui2
+07:11:06	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-marui2 to /news/
+07:11:07	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onairinfo
+07:11:07	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onairinfo to /news/
+07:11:07	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music2
+07:11:07	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music2 to /news/
+07:11:07	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-information5
+07:11:07	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-information5 to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-game2
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-game2 to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-songinfo
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-songinfo to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-information4
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-information4 to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tvseries2
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tvseries2 to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-niconico
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-niconico to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-information3
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-information3 to /news/
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-anan
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-anan to /news/
+07:11:08	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/movie/news/news-contents/collabo-morinaga4/images/b.png (from bungo-stray-dogs.jp/movie/news/?news=collabo-morinaga4)
+07:11:08	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-renewal2
+07:11:08	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-renewal2 to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-story
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-story to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-character
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-character to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-theatres
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-theatres to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-movie
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-movie to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-seiko
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-seiko to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2017-newgoods
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2017-newgoods to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-yosanoakiko3
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-yosanoakiko3 to /news/
+07:11:09	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/movie/news/news-contents/collabo-yosanoakiko3/images/badge.png (from bungo-stray-dogs.jp/movie/news/?news=collabo-yosanoakiko3)
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kyushupop
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kyushupop to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animate-ikebukuro
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animate-ikebukuro to /news/
+07:11:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2017-goods
+07:11:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2017-goods to /news/
+07:11:09	Warning: 	Retry after error -4 (Incorrect length (1377108 Bytes, 6226864 expected)) at link bungo-stray-dogs.jp/movie/news/news-contents/news-agf2017-goods/images/item6.jpg (from bungo-stray-dogs.jp/movie/news/?news=news-agf2017-goods)
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf2017-animate
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf2017-animate to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tvseries
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tvseries to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-dazaiweek
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-dazaiweek to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-ministop
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-ministop to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-character-shibusawa
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-character-shibusawa to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-wowow
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-wowow to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kyomafu-panel
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kyomafu-panel to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-marui
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-marui to /news/
+07:11:18	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-agf2017
+07:11:18	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-agf2017 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-information2
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-information2 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-tourism
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-tourism to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kyomafu2017
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kyomafu2017 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-nakahara
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-nakahara to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-information
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-information to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-comike2017
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-comike2017 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-marui2
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-marui2 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-comike
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-comike to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-movic
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-movic to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-saeki
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-saeki to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-marui
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-marui to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=screening-hitoriayumu
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=screening-hitoriayumu to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-axevent
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-axevent to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-renewal
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-renewal to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-morinaga-choco
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-morinaga-choco to /news/
+07:11:19	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/movie/news/news-contents/collabo-morinaga-choco/images/main.jpg (from bungo-stray-dogs.jp/movie/news/?news=collabo-morinaga-choco)
+07:11:19	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/movie/news/news-contents/collabo-morinaga-choco/images/cards.png (from bungo-stray-dogs.jp/movie/news/?news=collabo-morinaga-choco)
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-book-cover3
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-book-cover3 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animekuji2
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animekuji2 to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-namjatownsatelite
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-namjatownsatelite to /news/
+07:11:19	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-game
+07:11:19	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-game to /news/
+07:11:20	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/img/character/bx_loader.gif (from bungo-stray-dogs.jp/dist/css/jquery.bxslider.css)
+07:11:20	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/img/character/arrow1.png (from bungo-stray-dogs.jp/dist/css/jquery.bxslider.css)
+07:11:20	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/img/character/arrow2.png (from bungo-stray-dogs.jp/dist/css/jquery.bxslider.css)
+07:19:02	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/ticket/news-contents/ticket-info01/images/banner2.png (from bungo-stray-dogs.jp/movie/ticket/?ticket=ticket-info06)
+07:19:02	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/ticket/news-contents/ticket-info01/images/banner1.png (from bungo-stray-dogs.jp/movie/ticket/?ticket=ticket-info07)
+07:19:03	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2018
+07:19:03	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2018 to /special/season/
+07:19:03	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/movie/special/season-contents/season-xmas2018/images/36.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-xmas2018)
+07:19:03	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-aprilfool2018
+07:19:03	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-aprilfool2018 to /special/season/
+07:19:03	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/movie/special/season-contents/season-aprilfool2018/images/chara2.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-aprilfool2018)
+07:19:04	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/movie/special/season-contents/season-aprilfool2018/images/v1-5.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-aprilfool2018)
+07:19:04	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-whiteday2018
+07:19:04	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-whiteday2018 to /special/season/
+07:19:23	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2017
+07:19:23	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2017 to /special/season/
+07:19:23	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/movie/special/season-contents/season-xmas2017/images/29.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-xmas2017)
+07:19:24	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-tanabata2017
+07:19:24	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-tanabata2017 to /special/season/
+07:19:24	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/movie/special/season-contents/season-tanabata2017/images/36.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-tanabata2017)
+07:19:24	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-suipara2
+07:19:24	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-suipara2 to /news/
+07:19:24	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-famimaprint
+07:19:24	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-famimaprint to /news/
+07:19:24	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-comics13-bd2
+07:19:24	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-comics13-bd2 to /news/
+07:19:24	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-yuubin
+07:19:24	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-yuubin to /news/
+07:19:24	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/tv/news/news-contents/goods-yuubin/images/item2.jpg (from bungo-stray-dogs.jp/tv/news/?news=goods-yuubin)
+07:19:25	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-official-guidebook2
+07:19:25	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-official-guidebook2 to /news/
+07:19:25	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-heartup
+07:19:25	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-heartup to /news/
+07:19:25	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-yamazakicampaign
+07:19:25	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-yamazakicampaign to /news/
+07:19:25	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-utagegoods-animate
+07:19:25	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-utagegoods-animate to /news/
+07:19:25	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kokubunjimarui
+07:19:25	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kokubunjimarui to /news/
+07:19:25	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-guidebook2
+07:19:25	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-guidebook2 to /news/
+07:19:26	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-aomori2
+07:19:26	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-aomori2 to /news/
+07:19:26	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-yumecast
+07:19:26	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-yumecast to /news/
+07:19:26	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-suipara
+07:19:26	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-suipara to /news/
+07:19:26	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-hakatamarui
+07:19:26	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-hakatamarui to /news/
+07:19:27	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-ajgatha
+07:19:27	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-ajgatha to /news/
+07:19:27	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-linestamp2
+07:19:27	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-linestamp2 to /news/
+07:19:27	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-cap2
+07:19:27	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-cap2 to /news/
+07:19:27	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/tv/news/news-contents/collabo-cap2/images/item2.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-cap2)
+07:19:37	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-xmas
+07:19:37	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-xmas to /special/season/
+07:19:37	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-abematv2
+07:19:37	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-abematv2 to /news/
+07:19:38	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kanbadge
+07:19:38	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kanbadge to /news/
+07:19:38	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-ion2
+07:19:38	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-ion2 to /news/
+07:19:39	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/news/news-contents/collabo-goshogawara2/images/item2.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:19:39	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/collabo-aomori/images/item1.png (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:19:39	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/collabo-aomori/images/item2.png (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:19:39	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/collabo-aomoristandy/images/badge.png (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:19:39	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/collabo-aomoristandy/images/badge2.png (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:19:39	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/collabo-aomoristandy/images/clearfile.png (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:19:39	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-stampset
+07:19:39	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-stampset to /news/
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-joycan
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-joycan to /news/
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-cap
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-cap to /news/
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animate-onlyshop
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animate-onlyshop to /news/
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animategoods
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animategoods to /news/
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-glabar
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-glabar to /news/
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music-ost2
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music-ost2 to /news/
+07:19:40	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/st/st2-jkt.png (from bungo-stray-dogs.jp/tv/news/?news=news-music-ost2)
+07:19:40	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-popupstore
+07:19:40	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-popupstore to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kokugo
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kokugo to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-character-poe
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-character-poe to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-aomoristandy2
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-aomoristandy2 to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-manekineko_2
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-manekineko_2 to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-bakudanyaki
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-bakudanyaki to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onair161122
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onair161122 to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-abematv
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-abematv to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-utagegoods
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-utagegoods to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-character-harman
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-character-harman to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onair161116
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onair161116 to /news/
+07:19:41	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animatecafe3
+07:19:41	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animatecafe3 to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-colabono
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-colabono to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-cv-louisa
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-cv-louisa to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animatecafe2
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animatecafe2 to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-character-yumeo
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-character-yumeo to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-joueikai
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-joueikai to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-agf-goods
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-agf-goods to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-animate-kuronojidai
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-animate-kuronojidai to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-afgcampaign2
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-afgcampaign2 to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kuronojidai-theatre2
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kuronojidai-theatre2 to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-niconico-kuro
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-niconico-kuro to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onair161025
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onair161025 to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-cours2oped
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-cours2oped to /news/
+07:19:42	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/music-ed-lucklife2/images/main.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-cours2oped)
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-afgcampaign
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-afgcampaign to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-agf2016
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-agf2016 to /news/
+07:19:42	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-character-gide
+07:19:42	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-character-gide to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-manekineko2cool
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-manekineko2cool to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-aomoristandy
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-aomoristandy to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-music-2cool2
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-music-2cool2 to /news/
+07:19:43	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ed/luck-life3.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-music-2cool2)
+07:19:43	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ed/ed-jkt2.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-music-2cool2)
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-comics13-bd
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-comics13-bd to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-music-2cool
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-music-2cool to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-ion
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-ion to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-book-cover2
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-book-cover2 to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-music-2cool
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-music-2cool to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-kuronojidai
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-kuronojidai to /news/
+07:19:43	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/special/images/movie/kuronojidai/thumb.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-kuronojidai)
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-onair161004
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-onair161004 to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-jyakuchu
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-jyakuchu to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160927
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160927 to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160921
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160921 to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kiyoken
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kiyoken to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-music-ch-ma3
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-music-ch-ma3 to /news/
+07:19:43	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ch/ch-jkt3-new.png (from bungo-stray-dogs.jp/tv/news/?news=goods-music-ch-ma3)
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-clearfile
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-clearfile to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-pacifico
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-pacifico to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=movie-pv-3
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=movie-pv-3 to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-oct2016
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-oct2016 to /news/
+07:19:43	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160914
+07:19:43	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160914 to /news/
+07:19:44	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kyomafu2
+07:19:44	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kyomafu2 to /news/
+07:19:44	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-official-guidebook
+07:19:44	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-official-guidebook to /news/
+07:19:44	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160910
+07:19:44	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160910 to /news/
+07:19:44	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ch/ch-jkt1.png (from bungo-stray-dogs.jp/tv/news/?news=news-160910)
+07:19:44	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ch/ch-jkt2.png (from bungo-stray-dogs.jp/tv/news/?news=news-160910)
+07:19:44	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/music/ch/ch-jkt3.png (from bungo-stray-dogs.jp/tv/news/?news=news-160910)
+07:19:44	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kyomafu
+07:19:44	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kyomafu to /news/
+07:19:44	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160906
+07:19:44	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160906 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=music-ed-lucklife2
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=music-ed-lucklife2 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-utage-goods
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-utage-goods to /news/
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/main.png (from bungo-stray-dogs.jp/tv/news/?news=news-utage-goods)
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160831
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160831 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-tsugarutrain
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-tsugarutrain to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-season2op
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-season2op to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-utage
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-utage to /news/
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/pic-uemura.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-utage)
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/pic-miyano.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-utage)
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/pic-toyonaga.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-utage)
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/pic-kagura.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-utage)
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/pic-taniyama.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-utage)
+07:19:45	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/event/event-contents/event-160918/images/pic-granrodeo.jpg (from bungo-stray-dogs.jp/tv/news/?news=news-utage)
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-guidebook
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-guidebook to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-niconico2
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-niconico2 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-season2
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-season2 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160825
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160825 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-vv2
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-vv2 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-160817
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-160817 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-aomori
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-aomori to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-sunroot
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-sunroot to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-goshogawara2
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-goshogawara2 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-goshogawara
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-goshogawara to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-09182
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-09182 to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-music-ch-ma
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-music-ch-ma to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-wowow
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-wowow to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-yosanoakiko
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-yosanoakiko to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-animate
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-animate to /news/
+07:19:45	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-twitter
+07:19:45	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-twitter to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-0918
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-0918 to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-linestamp
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-linestamp to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kinokuniya
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kinokuniya to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=animate-av
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=animate-av to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-vv
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-vv to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-niconico
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-niconico to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=gamers
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=gamers to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-donation
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-donation to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=wagonshop
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=wagonshop to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-manekineko2
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-manekineko2 to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-kyomaf
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-kyomaf to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-nakahara_dazai
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-nakahara_dazai to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-animate-kitchencar
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-animate-kitchencar to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=stamprally-add-pr
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=stamprally-add-pr to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=cp-famima
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=cp-famima to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-music-st-ma
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-music-st-ma to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-comic-10
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-comic-10 to /news/
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/c-sticker/c-sticker.jpg (from bungo-stray-dogs.jp/tv/news/?news=goods-comic-10)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/c-sticker/c-sticker-nakajima.jpg (from bungo-stray-dogs.jp/tv/news/?news=goods-comic-10)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/c-sticker/c-sticker-dazai.jpg (from bungo-stray-dogs.jp/tv/news/?news=goods-comic-10)
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-manekineko
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-manekineko to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-nt-am-goods
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-nt-am-goods to /news/
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-hc.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-bm.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-lh.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-cb.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-key.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-mm.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-sa.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-bc.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/nt-am/nt-am-ts.jpg (from bungo-stray-dogs.jp/tv/news/?news=collabo-nt-am-goods)
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-change-1
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-change-1 to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-famima
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-famima to /news/
+07:19:46	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=fits-collaboration2
+07:19:46	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=fits-collaboration2 to /news/
+07:19:46	Warning: 	Retry after error -4 (Incorrect length (2683351 Bytes, 3300338 expected)) at link bungo-stray-dogs.jp/tv/news/news-contents/fits-collaboration2/images/edogawa.png (from bungo-stray-dogs.jp/tv/news/?news=fits-collaboration2)
+07:19:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-premium-screen-goodsinfo
+07:19:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-premium-screen-goodsinfo to /news/
+07:19:47	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-premium-screen-stub
+07:19:47	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-premium-screen-stub to /news/
+07:19:47	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/bodymist.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-anime-japan-2016-goods)
+07:19:47	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/key.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-anime-japan-2016-goods)
+07:19:47	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/can-badge.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-anime-japan-2016-goods)
+07:19:48	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/goods/images/goods/cd-yayahibon.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-anime-japan-2016-goods)
+07:19:48	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/tv/event/event-contents/event-160918/images/pic-kagura.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-160918)
+07:19:55	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=movie-pv-2
+07:19:55	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=movie-pv-2 to /news/
+07:19:55	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-book-cover
+07:19:55	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-book-cover to /news/
+07:19:55	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=onair-update-1
+07:19:55	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=onair-update-1 to /news/
+07:19:55	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=fits-collaboration
+07:19:55	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=fits-collaboration to /news/
+07:19:55	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=webradio-announce
+07:19:55	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=webradio-announce to /news/
+07:19:56	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=event-premium-screen
+07:19:56	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=event-premium-screen to /news/
+07:19:56	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=renewal
+07:19:56	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=renewal to /news/
+07:19:56	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=music-op-granrodeo
+07:19:56	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=music-op-granrodeo to /news/
+07:19:56	Warning: 	Retry after error -4 (Incorrect length (239782 Bytes, 619817 expected)) at link bungo-stray-dogs.jp/tv/story/images/9-ngbzytjf/bg.jpg (from bungo-stray-dogs.jp/tv/story/?season=1st)
+07:20:52	Warning: 	Retry after error -4 (Receive Error) at link bungo-stray-dogs.jp/tv/goods/images/bd-dvd/01-rtwdyxch/i-nakahara.jpg (from bungo-stray-dogs.jp/tv/goods/?mode=bd-dvd&bd=bdshop)
+07:21:00	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/special/comment-contents/comment-fin/images/1-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=comment)
+07:21:00	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/special/comment-contents/comment-artist/images/cast_artist.jpg (from bungo-stray-dogs.jp/tv/special/?mode=comment)
+07:21:00	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/special/comment-contents/comment-cast2nd/images/cast_comment2nd.jpg (from bungo-stray-dogs.jp/tv/special/?mode=comment)
+07:21:05	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/special/comment-contents/comment-cast/images/cast_comment1.png (from bungo-stray-dogs.jp/tv/special/?mode=comment)
+07:21:06	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/special/comment-contents/comment-staff-ouen/images/special_comment.png (from bungo-stray-dogs.jp/tv/special/?mode=comment)
+07:25:04	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=news-artgoods
+07:25:04	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=news-artgoods to /news/
+07:25:04	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=collabo-yumeirocast
+07:25:04	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=collabo-yumeirocast to /news/
+07:25:04	Warning: 	Retry after error -4 (Incorrect length (2434786 Bytes, 6226864 expected)) at link bungo-stray-dogs.jp/movie/news/news-contents/news-agf2017-goods/images/item6.jpg (from bungo-stray-dogs.jp/movie/news/?news=news-agf2017-goods)
+07:25:06	Warning: 	Retry after error -4 (Incorrect length (425382 Bytes, 434264 expected)) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-goods/images/item.jpg (from bungo-stray-dogs.jp/movie/goods/?detail=goods-goods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/goods/?detail=goods-officialgoods (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item2.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item3.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Incorrect length (57221 Bytes, 161483 expected)) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item4.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item5.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item6.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item7.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item8.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item9.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item10.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item11.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item12.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item13.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/special/season/ (from bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2018)
+07:25:06	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/special/season-contents/season-aprilfool2018/images/chara2.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-aprilfool2018)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/special/season-contents/season-aprilfool2018/images/v1-5.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-aprilfool2018)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/special/?mode=season&season=season-valentine (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:07	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:08	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:09	Error: 	"Not Found" (404) at link bungo-stray-dogs.jp/news/news-contents/collabo-goshogawara2/images/item2.jpg (from bungo-stray-dogs.jp/tv/event/?event=event-talkinaomori)
+07:25:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/news/?news=goods-music-ch-ma2
+07:25:09	Warning: 	File has moved from bungo-stray-dogs.jp/news/?news=goods-music-ch-ma2 to /news/
+07:25:09	Warning: 	Retry after error -2 (Receive Time Out) at link bungo-stray-dogs.jp/tv/special/comment-contents/comment-staff-ouen/images/special_comment.png (from bungo-stray-dogs.jp/tv/special/?mode=comment&comment=comment-staff-ouen)
+07:25:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-aprilfool2017
+07:25:09	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-aprilfool2017 to /special/season/
+07:25:09	Warning: 	Moved Temporarily for bungo-stray-dogs.jp/special/?mode=season&season=season-tanabata
+07:25:09	Warning: 	File has moved from bungo-stray-dogs.jp/special/?mode=season&season=season-tanabata to /special/season/
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:10	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/news/news-contents/news-agf2017-goods/images/item6.jpg (from bungo-stray-dogs.jp/movie/news/?news=news-agf2017-goods)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-goods/images/item.jpg (from bungo-stray-dogs.jp/movie/goods/?detail=goods-goods)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/goods/?detail=goods-officialgoods (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item2.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item3.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:10	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item4.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item5.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item6.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item7.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item8.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item9.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item10.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item11.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item12.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item13.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/special/season/ (from bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2018)
+07:25:11	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/special/season-contents/season-aprilfool2018/images/chara2.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-aprilfool2018)
+07:25:11	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/special/season-contents/season-aprilfool2018/images/v1-5.jpg (from bungo-stray-dogs.jp/movie/special/?mode=season&season=season-aprilfool2018)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/special/?mode=season&season=season-valentine (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:11	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:12	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/comment-contents/comment-staff-ouen/images/special_comment.png (from bungo-stray-dogs.jp/tv/special/?mode=comment&comment=comment-staff-ouen)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:13	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Warning: 	Retry after error -4 (Connect Error) at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-goods/images/item.jpg (from bungo-stray-dogs.jp/movie/goods/?detail=goods-goods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/goods/?detail=goods-officialgoods (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item2.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item3.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item4.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item5.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item6.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item7.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item8.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item9.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item10.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item11.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item12.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/movie/goods/news-contents/goods-officialgoods/images/item13.png (from bungo-stray-dogs.jp/movie/goods/?detail=goods-officialgoods)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/special/season/ (from bungo-stray-dogs.jp/special/?mode=season&season=season-xmas2018)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/special/?mode=season&season=season-valentine (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v1-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v2-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v3-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v4-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v5-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-valentine/images/v6-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-valentine)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/comment-contents/comment-staff-ouen/images/special_comment.png (from bungo-stray-dogs.jp/tv/special/?mode=comment&comment=comment-staff-ouen)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q1-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q2-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-1.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-2.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-3.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-4.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-5.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+07:25:14	Error: 	"Connect Error" (-4) after 2 retries at link bungo-stray-dogs.jp/tv/special/season-contents/season-tanabata/images/q3-6.jpg (from bungo-stray-dogs.jp/tv/special/?mode=season&season=season-tanabata)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 hours 59 minutes 17 seconds : 3320 links scanned, 2738 files written (347008619 bytes overall) [351426580 bytes received at 12220 bytes/sec], 47329 bytes transferred using HTTP compression in 4 files, ratio 30%, 2.2 requests per connection
+(131 errors, 759 warnings, 0 messages)
